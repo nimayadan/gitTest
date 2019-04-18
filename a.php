@@ -7,5 +7,7 @@ echo 'baby';
 
 echo 'wechat';
 echo 'origin';
-echo "local"£»
+echo "local"
+
+echo 'centos';
 ?>
