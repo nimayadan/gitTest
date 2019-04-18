@@ -1,3 +1,7 @@
 <?
-echo "hello git"
+echo "hello git";
+
+echo 'baby';
+
+echo 'wechat';
 ?>
