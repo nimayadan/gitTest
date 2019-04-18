@@ -6,6 +6,6 @@ echo 'ali hello';
 echo 'baby';
 
 echo 'wechat';
-
 echo 'origin';
+echo "local"£»
 ?>
